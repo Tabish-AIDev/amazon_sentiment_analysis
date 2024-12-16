@@ -1,0 +1,12 @@
+# Virtual environment
+env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+
+# Optional: Large datasets or output files
+*.csv
+*.pkl
